@@ -1,0 +1,19 @@
+#container {
+	width: 98%;
+}
+
+#left {
+	width: 60%;
+}
+
+#right {
+	width: 40%
+}
+
+header #featured {
+	font-family: 'freight-sans-pro';
+	padding-left: 50px;
+	padding-right: 60px;
+	max-width: 500 px;
+	margin: 0 auto;
+}
